@@ -1,0 +1,11 @@
+<map id="mlir::linalg::TensorCastOpConverter" name="mlir::linalg::TensorCastOpConverter">
+<area shape="rect" id="node2" href="$classmlir_1_1BufferizeOpConversionPattern.html" title="mlir::BufferizeOpConversion\lPattern\&lt; TensorCastOp \&gt;" alt="" coords="1328,45,1515,86"/>
+<area shape="rect" id="node3" href="$structmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; TensorCastOp \&gt;" alt="" coords="985,110,1161,151"/>
+<area shape="rect" id="node4" href="$classmlir_1_1ConversionPattern.html" title="Base class for the conversion patterns. " alt="" coords="421,88,580,115"/>
+<area shape="rect" id="node8" href="$structmlir_1_1OpConversionPattern.html" title="OpConversionPattern is a wrapper around ConversionPattern that allows for matching and rewriting agai..." alt="" coords="636,74,812,115"/>
+<area shape="rect" id="node5" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements. " alt="" coords="148,95,287,121"/>
+<area shape="rect" id="node6" href="$classmlir_1_1Pattern.html" title="This class contains all of the data related to a pattern, but does not contain any methods or logic f..." alt="" coords="5,95,99,121"/>
+<area shape="rect" id="node7" href="$classmlir_1_1TypeConverter.html" title="Type conversion class. " alt="" coords="149,31,286,57"/>
+<area shape="rect" id="node9" href="$classmlir_1_1BufferizeTypeConverter.html" title="A helper type converter class for using inside Buffer Assignment operation conversion patterns..." alt="" coords="629,16,819,43"/>
+<area shape="rect" id="node10" href="$classmlir_1_1BufferizeOpConversionPattern.html" title="Helper conversion pattern that encapsulates a BufferizeTypeConverter instance. " alt="" coords="980,45,1167,86"/>
+</map>

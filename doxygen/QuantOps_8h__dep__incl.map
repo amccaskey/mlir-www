@@ -1,0 +1,10 @@
+<map id="include/mlir/Dialect/Quant/QuantOps.h" name="include/mlir/Dialect/Quant/QuantOps.h">
+<area shape="rect" id="node2" href="$InitAllDialects_8h.html" title="include/mlir/InitAllDialects.h" alt="" coords="69,102,253,129"/>
+<area shape="rect" id="node5" href="$QuantOps_8cpp.html" title="lib/Dialect/Quant/IR\l/QuantOps.cpp" alt="" coords="277,95,415,136"/>
+<area shape="rect" id="node6" href="$QuantTypes_8cpp.html" title="lib/Dialect/Quant/IR\l/QuantTypes.cpp" alt="" coords="439,95,576,136"/>
+<area shape="rect" id="node7" href="$Dialect_2Quant_2IR_2TypeParser_8cpp.html" title="lib/Dialect/Quant/IR\l/TypeParser.cpp" alt="" coords="600,95,737,136"/>
+<area shape="rect" id="node8" href="$ConvertConst_8cpp.html" title="lib/Dialect/Quant/Transforms\l/ConvertConst.cpp" alt="" coords="762,95,951,136"/>
+<area shape="rect" id="node9" href="$ConvertSimQuant_8cpp.html" title="lib/Dialect/Quant/Transforms\l/ConvertSimQuant.cpp" alt="" coords="975,95,1165,136"/>
+<area shape="rect" id="node3" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="5,184,151,225"/>
+<area shape="rect" id="node4" href="$JitRunner_8cpp.html" title="lib/ExecutionEngine\l/JitRunner.cpp" alt="" coords="175,184,312,225"/>
+</map>

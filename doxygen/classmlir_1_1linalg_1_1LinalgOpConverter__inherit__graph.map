@@ -1,0 +1,6 @@
+<map id="mlir::linalg::LinalgOpConverter" name="mlir::linalg::LinalgOpConverter">
+<area shape="rect" id="node2" href="$classmlir_1_1BufferizeConversionPattern.html" title="Helper conversion pattern that encapsulates a BufferizeTypeConverter instance and that operates on Op..." alt="" coords="19,229,189,271"/>
+<area shape="rect" id="node3" href="$classmlir_1_1ConversionPattern.html" title="Base class for the conversion patterns. " alt="" coords="25,155,183,181"/>
+<area shape="rect" id="node4" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements. " alt="" coords="35,80,173,107"/>
+<area shape="rect" id="node5" href="$classmlir_1_1Pattern.html" title="This class contains all of the data related to a pattern, but does not contain any methods or logic f..." alt="" coords="57,5,151,32"/>
+</map>

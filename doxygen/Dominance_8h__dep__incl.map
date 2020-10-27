@@ -1,0 +1,32 @@
+<map id="include/mlir/IR/Dominance.h" name="include/mlir/IR/Dominance.h">
+<area shape="rect" id="node2" href="$Bufferize_8h.html" title="include/mlir/Transforms\l/Bufferize.h" alt="" coords="2515,80,2674,121"/>
+<area shape="rect" id="node8" href="$Fusion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Fusion.cpp" alt="" coords="203,273,363,315"/>
+<area shape="rect" id="node26" href="$Hoisting_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Hoisting.cpp" alt="" coords="2698,80,2867,121"/>
+<area shape="rect" id="node27" href="$Dominance_8cpp.html" title="lib/IR/Dominance.cpp" alt="" coords="2891,87,3039,114"/>
+<area shape="rect" id="node28" href="$Verifier_8cpp.html" title="lib/IR/Verifier.cpp" alt="" coords="3064,87,3187,114"/>
+<area shape="rect" id="node29" href="$CSE_8cpp.html" title="lib/Transforms/CSE.cpp" alt="" coords="3211,87,3373,114"/>
+<area shape="rect" id="node30" href="$MemRefDataFlowOpt_8cpp.html" title="lib/Transforms/MemRefData\lFlowOpt.cpp" alt="" coords="3397,80,3584,121"/>
+<area shape="rect" id="node31" href="$Transforms_2Utils_2Utils_8cpp.html" title="lib/Transforms/Utils\l/Utils.cpp" alt="" coords="3608,80,3744,121"/>
+<area shape="rect" id="node3" href="$Linalg_2Transforms_2Transforms_8h.html" title="include/mlir/Dialect\l/Linalg/Transforms/Transforms.h" alt="" coords="1228,177,1439,218"/>
+<area shape="rect" id="node7" href="$Dialect_2Linalg_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Bufferize.cpp" alt="" coords="5,273,179,315"/>
+<area shape="rect" id="node16" href="$Dialect_2StandardOps_2Transforms_2Passes_8h.html" title="include/mlir/Dialect\l/StandardOps/Transforms\l/Passes.h" alt="" coords="2409,169,2581,225"/>
+<area shape="rect" id="node18" href="$Dialect_2StandardOps_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/StandardOps\l/Transforms/Bufferize.cpp" alt="" coords="2347,273,2520,315"/>
+<area shape="rect" id="node21" href="$Dialect_2SCF_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/SCF/Transforms\l/Bufferize.cpp" alt="" coords="2605,177,2787,218"/>
+<area shape="rect" id="node22" href="$Dialect_2Shape_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Shape/Transforms\l/Bufferize.cpp" alt="" coords="2811,177,3002,218"/>
+<area shape="rect" id="node23" href="$BufferDeallocation_8cpp.html" title="lib/Transforms/BufferDeallocation.cpp" alt="" coords="3026,184,3267,211"/>
+<area shape="rect" id="node24" href="$Transforms_2Bufferize_8cpp.html" title="lib/Transforms/Bufferize.cpp" alt="" coords="3292,184,3479,211"/>
+<area shape="rect" id="node25" href="$BufferOptimizations_8cpp.html" title="lib/Transforms/BufferOptimizations.cpp" alt="" coords="3503,184,3753,211"/>
+<area shape="rect" id="node4" href="$CodegenStrategy_8h.html" title="include/mlir/Dialect\l/Linalg/Transforms/CodegenStrategy.h" alt="" coords="387,273,634,315"/>
+<area shape="rect" id="node6" href="$LinalgToStandard_8cpp.html" title="lib/Conversion/LinalgToStandard\l/LinalgToStandard.cpp" alt="" coords="657,273,868,315"/>
+<area shape="rect" id="node9" href="$FusionOnTensors_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/FusionOnTensors.cpp" alt="" coords="892,273,1116,315"/>
+<area shape="rect" id="node10" href="$Interchange_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Interchange.cpp" alt="" coords="1140,273,1329,315"/>
+<area shape="rect" id="node11" href="$Loops_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Loops.cpp" alt="" coords="1354,273,1510,315"/>
+<area shape="rect" id="node12" href="$Promotion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Promotion.cpp" alt="" coords="1534,273,1714,315"/>
+<area shape="rect" id="node13" href="$Tiling_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Tiling.cpp" alt="" coords="1739,273,1891,315"/>
+<area shape="rect" id="node14" href="$Transforms_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Transforms.cpp" alt="" coords="1915,273,2101,315"/>
+<area shape="rect" id="node15" href="$Vectorization_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Vectorization.cpp" alt="" coords="2125,273,2323,315"/>
+<area shape="rect" id="node5" href="$CodegenStrategy_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/CodegenStrategy.cpp" alt="" coords="399,363,622,404"/>
+<area shape="rect" id="node17" href="$InitAllPasses_8h.html" title="include/mlir/InitAllPasses.h" alt="" coords="2545,281,2725,307"/>
+<area shape="rect" id="node19" href="$ExpandAtomic_8cpp.html" title="lib/Dialect/StandardOps\l/Transforms/ExpandAtomic.cpp" alt="" coords="2749,273,2955,315"/>
+<area shape="rect" id="node20" href="$ExpandTanh_8cpp.html" title="lib/Dialect/StandardOps\l/Transforms/ExpandTanh.cpp" alt="" coords="2980,273,3175,315"/>
+</map>

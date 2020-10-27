@@ -1,0 +1,24 @@
+<map id="mlir::OpConversionPattern&lt; SourceOp &gt;" name="mlir::OpConversionPattern&lt; SourceOp &gt;">
+<area shape="rect" id="node5" href="$classmlir_1_1BufferizeOpConversionPattern.html" title="Helper conversion pattern that encapsulates a BufferizeTypeConverter instance. " alt="" coords="909,157,1096,199"/>
+<area shape="rect" id="node16" href="$classmlir_1_1SPIRVOpLowering.html" title="Base class to define a conversion pattern to lower SourceOp into SPIR&#45;V. " alt="" coords="922,421,1083,463"/>
+<area shape="rect" id="node17" href="$structmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; ConstantOp \&gt;" alt="" coords="915,5,1091,47"/>
+<area shape="rect" id="node18" href="$structmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; CallOp \&gt;" alt="" coords="915,84,1091,125"/>
+<area shape="rect" id="node19" href="$structmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; FuncOp \&gt;" alt="" coords="915,291,1091,332"/>
+<area shape="rect" id="node20" href="$structmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; TensorCastOp \&gt;" alt="" coords="915,225,1091,267"/>
+<area shape="rect" id="node21" href="$structmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; SPIRVOp \&gt;" alt="" coords="915,487,1091,528"/>
+<area shape="rect" id="node23" href="$structmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; ReturnOpSourceTy \&gt;" alt="" coords="915,356,1091,397"/>
+<area shape="rect" id="node2" href="$classmlir_1_1ConversionPattern.html" title="Base class for the conversion patterns. " alt="" coords="336,270,495,297"/>
+<area shape="rect" id="node3" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements. " alt="" coords="148,270,287,297"/>
+<area shape="rect" id="node4" href="$classmlir_1_1Pattern.html" title="This class contains all of the data related to a pattern, but does not contain any methods or logic f..." alt="" coords="5,270,99,297"/>
+<area shape="rect" id="node6" href="$classmlir_1_1BufferizeOpConversionPattern.html" title="mlir::BufferizeOpConversion\lPattern\&lt; ConstantOp \&gt;" alt="" coords="1295,9,1482,51"/>
+<area shape="rect" id="node8" href="$classmlir_1_1BufferizeOpConversionPattern.html" title="mlir::BufferizeOpConversion\lPattern\&lt; CallOp \&gt;" alt="" coords="1295,99,1482,140"/>
+<area shape="rect" id="node10" href="$classmlir_1_1BufferizeOpConversionPattern.html" title="mlir::BufferizeOpConversion\lPattern\&lt; FuncOp \&gt;" alt="" coords="1295,267,1482,308"/>
+<area shape="rect" id="node12" href="$classmlir_1_1BufferizeOpConversionPattern.html" title="mlir::BufferizeOpConversion\lPattern\&lt; TensorCastOp \&gt;" alt="" coords="1295,176,1482,217"/>
+<area shape="rect" id="node14" href="$classmlir_1_1BufferizeOpConversionPattern.html" title="mlir::BufferizeOpConversion\lPattern\&lt; ReturnOpSourceTy \&gt;" alt="" coords="1289,339,1489,380"/>
+<area shape="rect" id="node7" href="$classmlir_1_1linalg_1_1TensorConstantOpConverter.html" title="TensorConstantOp conversion inserts a linearized 1&#45;D vector constant that is stored in memory..." alt="" coords="1583,9,1766,51"/>
+<area shape="rect" id="node9" href="$classmlir_1_1BufferizeCallOpConverter.html" title="Rewrites the CallOp to match its operands and results with the signature of the callee after rewritin..." alt="" coords="1575,106,1775,133"/>
+<area shape="rect" id="node11" href="$classmlir_1_1BufferizeFuncOpConverter.html" title="Converts the signature of the function using BufferizeTypeConverter. " alt="" coords="1571,274,1778,301"/>
+<area shape="rect" id="node13" href="$classmlir_1_1linalg_1_1TensorCastOpConverter.html" title="TensorCastOp converts 1&#45;1 to MemRefCastOp. " alt="" coords="1596,176,1753,217"/>
+<area shape="rect" id="node15" href="$classmlir_1_1BufferizeReturnOpConverter.html" title="Rewrites the ReturnOp to conform with the changed function signature. " alt="" coords="1541,331,1808,387"/>
+<area shape="rect" id="node22" href="$classmlir_1_1SPIRVToLLVMConversion.html" title="mlir::SPIRVToLLVMConversion\l\&lt; SPIRVOp \&gt;" alt="" coords="1285,487,1492,528"/>
+</map>

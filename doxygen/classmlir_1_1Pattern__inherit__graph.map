@@ -1,0 +1,50 @@
+<map id="mlir::Pattern" name="mlir::Pattern">
+<area shape="rect" id="node2" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements. " alt="" coords="148,1130,287,1157"/>
+<area shape="rect" id="node3" href="$classmlir_1_1ConversionPattern.html" title="Base class for the conversion patterns. " alt="" coords="350,351,509,378"/>
+<area shape="rect" id="node13" href="$structmlir_1_1linalg_1_1LinalgBaseInterchangePattern.html" title="Linalg interchange patterns. " alt="" coords="353,596,506,637"/>
+<area shape="rect" id="node15" href="$structmlir_1_1linalg_1_1LinalgBasePromotionPattern.html" title="Linalg promotion patterns. " alt="" coords="353,661,506,703"/>
+<area shape="rect" id="node17" href="$structmlir_1_1linalg_1_1LinalgBaseTileAndFusePattern.html" title="mlir::linalg::LinalgBase\lTileAndFusePattern" alt="" coords="353,727,506,768"/>
+<area shape="rect" id="node19" href="$structmlir_1_1linalg_1_1LinalgBaseTilingPattern.html" title="mlir::linalg::LinalgBase\lTilingPattern" alt="" coords="353,792,506,833"/>
+<area shape="rect" id="node21" href="$structmlir_1_1linalg_1_1LinalgBaseVectorizationPattern.html" title="Linalg vectorization patterns. " alt="" coords="353,857,506,899"/>
+<area shape="rect" id="node23" href="$structmlir_1_1linalg_1_1LinalgLoweringPattern.html" title="mlir::linalg::LinalgLowering\lPattern\&lt; OpTy \&gt;" alt="" coords="342,923,517,964"/>
+<area shape="rect" id="node24" href="$classmlir_1_1linalg_1_1LinalgOpToLibraryCallRewrite.html" title="mlir::linalg::LinalgOpTo\lLibraryCallRewrite" alt="" coords="352,988,507,1029"/>
+<area shape="rect" id="node25" href="$structmlir_1_1OpRewritePattern.html" title="OpRewritePattern is a wrapper around RewritePattern that allows for matching and rewriting against an..." alt="" coords="352,1329,507,1371"/>
+<area shape="rect" id="node26" href="$structmlir_1_1OpRewritePattern.html" title="mlir::OpRewritePattern\l\&lt; CopyOp \&gt;" alt="" coords="762,1036,917,1077"/>
+<area shape="rect" id="node29" href="$structmlir_1_1OpRewritePattern.html" title="mlir::OpRewritePattern\l\&lt; IndexedGenericOp \&gt;" alt="" coords="762,1224,917,1265"/>
+<area shape="rect" id="node31" href="$structmlir_1_1OpRewritePattern.html" title="mlir::OpRewritePattern\l\&lt; OpTy \&gt;" alt="" coords="762,1289,917,1331"/>
+<area shape="rect" id="node33" href="$structmlir_1_1OpRewritePattern.html" title="mlir::OpRewritePattern\l\&lt; AffineMinOp \&gt;" alt="" coords="762,1512,917,1553"/>
+<area shape="rect" id="node35" href="$structmlir_1_1OpRewritePattern.html" title="mlir::OpRewritePattern\l\&lt; ExtractMapOp \&gt;" alt="" coords="762,1355,917,1396"/>
+<area shape="rect" id="node37" href="$structmlir_1_1OpRewritePattern.html" title="mlir::OpRewritePattern\l\&lt; vector::TransferReadOp \&gt;" alt="" coords="746,1101,933,1143"/>
+<area shape="rect" id="node40" href="$structmlir_1_1OpRewritePattern.html" title="mlir::OpRewritePattern\l\&lt; ConvOp \&gt;" alt="" coords="762,1421,917,1463"/>
+<area shape="rect" id="node42" href="$structmlir_1_1OpRewritePattern.html" title="mlir::OpRewritePattern\l\&lt; vector::TransferWriteOp \&gt;" alt="" coords="746,1577,933,1619"/>
+<area shape="rect" id="node43" href="$structmlir_1_1OpRewritePattern.html" title="mlir::OpRewritePattern\l\&lt; vector::ContractionOp \&gt;" alt="" coords="752,1688,927,1729"/>
+<area shape="rect" id="node48" href="$structmlir_1_1vector_1_1VectorTransferFullPartialRewriter.html" title="Apply splitFullAndPartialTransfer selectively via a pattern. " alt="" coords="339,1769,520,1811"/>
+<area shape="rect" id="node49" href="$structmlir_1_1VectorTransferRewriter.html" title="Implements lowering of TransferReadOp and TransferWriteOp to a proper abstraction for the hardware..." alt="" coords="336,1835,523,1876"/>
+<area shape="rect" id="node4" href="$classmlir_1_1BufferizeConversionPattern.html" title="Helper conversion pattern that encapsulates a BufferizeTypeConverter instance and that operates on Op..." alt="" coords="755,428,924,469"/>
+<area shape="rect" id="node5" href="$classmlir_1_1ConvertToLLVMPattern.html" title="Base class for operation conversions targeting the LLVM IR dialect. " alt="" coords="745,494,933,521"/>
+<area shape="rect" id="node6" href="$structmlir_1_1OpConversionPattern.html" title="OpConversionPattern is a wrapper around ConversionPattern that allows for matching and rewriting agai..." alt="" coords="751,229,927,271"/>
+<area shape="rect" id="node7" href="$structmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; ConstantOp \&gt;" alt="" coords="1173,252,1349,293"/>
+<area shape="rect" id="node8" href="$structmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; CallOp \&gt;" alt="" coords="1173,361,1349,403"/>
+<area shape="rect" id="node9" href="$structmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; FuncOp \&gt;" alt="" coords="1173,5,1349,47"/>
+<area shape="rect" id="node10" href="$structmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; TensorCastOp \&gt;" alt="" coords="1173,77,1349,119"/>
+<area shape="rect" id="node11" href="$structmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; SPIRVOp \&gt;" alt="" coords="1173,515,1349,556"/>
+<area shape="rect" id="node12" href="$structmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; ReturnOpSourceTy \&gt;" alt="" coords="1173,157,1349,199"/>
+<area shape="rect" id="node14" href="$structmlir_1_1linalg_1_1LinalgInterchangePattern.html" title="mlir::linalg::LinalgInterchange\lPattern\&lt; OpTy \&gt;" alt="" coords="744,596,935,637"/>
+<area shape="rect" id="node16" href="$structmlir_1_1linalg_1_1LinalgPromotionPattern.html" title="mlir::linalg::LinalgPromotion\lPattern\&lt; OpTy \&gt;" alt="" coords="748,661,931,703"/>
+<area shape="rect" id="node18" href="$structmlir_1_1linalg_1_1LinalgTileAndFusePattern.html" title="mlir::linalg::LinalgTile\lAndFusePattern\&lt; OpTy \&gt;" alt="" coords="753,727,925,768"/>
+<area shape="rect" id="node20" href="$structmlir_1_1linalg_1_1LinalgTilingPattern.html" title="mlir::linalg::LinalgTiling\lPattern\&lt; OpTy \&gt;" alt="" coords="762,792,917,833"/>
+<area shape="rect" id="node22" href="$structmlir_1_1linalg_1_1LinalgVectorizationPattern.html" title="mlir::linalg::LinalgVectorization\lPattern\&lt; OpTy \&gt;" alt="" coords="740,857,939,899"/>
+<area shape="rect" id="node27" href="$classmlir_1_1linalg_1_1CopyOpToLibraryCallRewrite.html" title="Rewrite pattern specialization for CopyOp, kicks in when both input and output permutations are left ..." alt="" coords="1166,1039,1357,1080"/>
+<area shape="rect" id="node28" href="$classmlir_1_1linalg_1_1CopyTransposeRewrite.html" title="Rewrite CopyOp with permutations into a sequence of TransposeOp and permutation&#45;free CopyOp..." alt="" coords="1171,973,1352,1015"/>
+<area shape="rect" id="node30" href="$classmlir_1_1linalg_1_1IndexedGenericOpToLibraryCallRewrite.html" title="Conversion pattern specialization for IndexedGenericOp, has special handling for the extra index oper..." alt="" coords="1171,1224,1351,1265"/>
+<area shape="rect" id="node32" href="$structmlir_1_1vector_1_1UnrollVectorPattern.html" title="Pattern to apply unrollSingleResultVectorOp to a targetShape declaratively. " alt="" coords="1178,1289,1345,1331"/>
+<area shape="rect" id="node34" href="$structmlir_1_1linalg_1_1AffineMinSCFCanonicalizationPattern.html" title="Canonicalize AffineMinOp operations in the context of enclosing scf.for and scf.parallel by: ..." alt="" coords="1128,1512,1395,1553"/>
+<area shape="rect" id="node36" href="$structmlir_1_1vector_1_1PointwiseExtractPattern.html" title="Canonicalize an extra element using the result of a pointwise operation. " alt="" coords="1164,1355,1359,1396"/>
+<area shape="rect" id="node38" href="$structmlir_1_1linalg_1_1LinalgCopyVTRForwardingPattern.html" title="Match and rewrite for the pattern: ``` alloc = ... " alt="" coords="1184,1159,1339,1200"/>
+<area shape="rect" id="node39" href="$structTransferReadExtractPattern.html" title="TransferReadExtractPattern" alt="" coords="1169,1107,1354,1134"/>
+<area shape="rect" id="node41" href="$classmlir_1_1linalg_1_1ConvOpVectorization.html" title="Converts Convolution op into vector contraction. " alt="" coords="1155,1421,1368,1463"/>
+<area shape="rect" id="node44" href="$classmlir_1_1ContractionOpLowering.html" title="Progressive lowering of ContractionOp. " alt="" coords="1168,1786,1355,1813"/>
+<area shape="rect" id="node45" href="$classmlir_1_1ContractionOpToDotLowering.html" title="Progressive lowering of a vector.contract a, b, c with row&#45;major matmul semantics to an output&#45;size&#45;u..." alt="" coords="1176,1589,1347,1631"/>
+<area shape="rect" id="node46" href="$classmlir_1_1ContractionOpToMatmulOpLowering.html" title="Progressive lowering of a vector.contract a, b, c with row&#45;major matmul semantics to: %flattened_a = ..." alt="" coords="1165,1655,1358,1696"/>
+<area shape="rect" id="node47" href="$classmlir_1_1ContractionOpToOuterProductOpLowering.html" title="Progressive lowering of a vector.contract a, b, c with row&#45;major matmul semantics to a reduction_size..." alt="" coords="1170,1720,1353,1761"/>
+</map>

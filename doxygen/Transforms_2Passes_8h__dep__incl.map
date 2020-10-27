@@ -1,0 +1,30 @@
+<map id="include/mlir/Transforms/Passes.h" name="include/mlir/Transforms/Passes.h">
+<area shape="rect" id="node2" href="$InitAllPasses_8h.html" title="include/mlir/InitAllPasses.h" alt="" coords="5,102,185,129"/>
+<area shape="rect" id="node3" href="$OptReductionPass_8h.html" title="include/mlir/Reducer\l/OptReductionPass.h" alt="" coords="210,95,357,136"/>
+<area shape="rect" id="node4" href="$AffineToStandard_8cpp.html" title="lib/Conversion/AffineToStandard\l/AffineToStandard.cpp" alt="" coords="381,95,591,136"/>
+<area shape="rect" id="node5" href="$LinalgToLLVM_8cpp.html" title="lib/Conversion/LinalgToLLVM\l/LinalgToLLVM.cpp" alt="" coords="615,95,807,136"/>
+<area shape="rect" id="node6" href="$SCFToGPU_8cpp.html" title="lib/Conversion/SCFToGPU\l/SCFToGPU.cpp" alt="" coords="832,95,1012,136"/>
+<area shape="rect" id="node7" href="$SCFToStandard_8cpp.html" title="lib/Conversion/SCFToStandard\l/SCFToStandard.cpp" alt="" coords="1037,95,1239,136"/>
+<area shape="rect" id="node8" href="$StandardToLLVM_8cpp.html" title="lib/Conversion/StandardTo\lLLVM/StandardToLLVM.cpp" alt="" coords="1263,95,1450,136"/>
+<area shape="rect" id="node9" href="$ConvertVectorToLLVM_8cpp.html" title="lib/Conversion/VectorToLLVM\l/ConvertVectorToLLVM.cpp" alt="" coords="1475,95,1671,136"/>
+<area shape="rect" id="node10" href="$VectorToSCF_8cpp.html" title="lib/Conversion/VectorToSCF\l/VectorToSCF.cpp" alt="" coords="1695,95,1885,136"/>
+<area shape="rect" id="node11" href="$CodegenStrategy_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/CodegenStrategy.cpp" alt="" coords="1909,95,2132,136"/>
+<area shape="rect" id="node12" href="$MlirOptMain_8cpp.html" title="lib/Support/MlirOptMain.cpp" alt="" coords="2156,102,2339,129"/>
+<area shape="rect" id="node13" href="$BufferDeallocation_8cpp.html" title="lib/Transforms/BufferDeallocation.cpp" alt="" coords="2363,102,2604,129"/>
+<area shape="rect" id="node14" href="$BufferOptimizations_8cpp.html" title="lib/Transforms/BufferOptimizations.cpp" alt="" coords="2628,102,2877,129"/>
+<area shape="rect" id="node15" href="$Canonicalizer_8cpp.html" title="lib/Transforms/Canonicalizer.cpp" alt="" coords="2902,102,3115,129"/>
+<area shape="rect" id="node16" href="$CopyRemoval_8cpp.html" title="lib/Transforms/CopyRemoval.cpp" alt="" coords="3140,102,3357,129"/>
+<area shape="rect" id="node17" href="$CSE_8cpp.html" title="lib/Transforms/CSE.cpp" alt="" coords="3382,102,3545,129"/>
+<area shape="rect" id="node18" href="$Inliner_8cpp.html" title="lib/Transforms/Inliner.cpp" alt="" coords="3569,102,3739,129"/>
+<area shape="rect" id="node19" href="$LoopCoalescing_8cpp.html" title="lib/Transforms/LoopCoalescing.cpp" alt="" coords="3763,102,3990,129"/>
+<area shape="rect" id="node20" href="$LoopFusion_8cpp.html" title="lib/Transforms/LoopFusion.cpp" alt="" coords="4015,102,4216,129"/>
+<area shape="rect" id="node21" href="$LoopInvariantCodeMotion_8cpp.html" title="lib/Transforms/LoopInvariant\lCodeMotion.cpp" alt="" coords="4241,95,4427,136"/>
+<area shape="rect" id="node22" href="$MemRefDataFlowOpt_8cpp.html" title="lib/Transforms/MemRefData\lFlowOpt.cpp" alt="" coords="4451,95,4638,136"/>
+<area shape="rect" id="node23" href="$NormalizeMemRefs_8cpp.html" title="lib/Transforms/Normalize\lMemRefs.cpp" alt="" coords="4662,95,4830,136"/>
+<area shape="rect" id="node24" href="$OpStats_8cpp.html" title="lib/Transforms/OpStats.cpp" alt="" coords="4855,102,5037,129"/>
+<area shape="rect" id="node25" href="$ParallelLoopCollapsing_8cpp.html" title="lib/Transforms/ParallelLoop\lCollapsing.cpp" alt="" coords="5061,95,5241,136"/>
+<area shape="rect" id="node26" href="$PipelineDataTransfer_8cpp.html" title="lib/Transforms/PipelineData\lTransfer.cpp" alt="" coords="5265,95,5448,136"/>
+<area shape="rect" id="node27" href="$SCCP_8cpp.html" title="lib/Transforms/SCCP.cpp" alt="" coords="5472,102,5644,129"/>
+<area shape="rect" id="node28" href="$StripDebugInfo_8cpp.html" title="lib/Transforms/StripDebug\lInfo.cpp" alt="" coords="5668,95,5843,136"/>
+<area shape="rect" id="node29" href="$SymbolDCE_8cpp.html" title="lib/Transforms/SymbolDCE.cpp" alt="" coords="5867,102,6073,129"/>
+</map>
